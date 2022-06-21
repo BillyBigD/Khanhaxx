@@ -35,7 +35,7 @@
       display: flex;
       justify-content: space-between;margin:5px;}
   .ou {
-      background-color: #631363;
+      background-color: #6207f5;
       letter-spacing: 2px;
       font-weight: none;
       font-size: 11px;
