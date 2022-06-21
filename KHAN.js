@@ -5,7 +5,7 @@
 <div id="box">
 <button class="ou" id="accordian">Toggle</button>
     <div class="ou" id="box2">
-        <p class="pdark" id="pdark"> KhanHAX by Billy</p>
+        <p class="pdark" id="pdark"> KhanHAX-v1 by OS MELHORES</p>
         <section><label>Answer: [<label id="ans1">...</label>]</label></section>
         <section><label>Last Answer Of Quiz: [<label id="ans2"></label>]</label></section>
         <section><label>&nbsp;</label></section>
