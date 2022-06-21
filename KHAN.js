@@ -24,7 +24,7 @@
   #box {
       z-index: 1090;
       position: fixed;
-      top: 0;
+      bottom: 0;
       right: 0;}
   #box2 {
       padding: 10px;
