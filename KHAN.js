@@ -9,9 +9,9 @@
           <section><label>Resposta: [<label id="ans1">...</label>]</label></section>
           <section><label>Ultima Resposta [<label id="ans2"></label>]</label></section>
           <section><label>&nbsp;</label></section>
-          <section><label id="ans3text">Dropdown 1: [<label id="ans3">...</label>]</label></section>
-          <section><label id="ans4text">Dropdown 2: [<label id="ans4">...</label>]</label></section>
-          <section><label id="ans5text">Dropdown 3: [<label id="ans5">...</label>]</label></section>
+          <section><label id="ans3text">TT: [<label id="ans3">...</label>]</label></section>
+          <section><label id="ans4text">TT: [<label id="ans4">...</label>]</label></section>
+          <section><label id="ans5text">TT: [<label id="ans5">...</label>]</label></section>
           <section><label>&nbsp;</label></section>
           <section><label>M esconde o menu</label></section>
    
@@ -27,7 +27,7 @@
       top: 0;
       right: 0;}
   #box2 {
-      padding: 15px;
+      padding: 10px;
       margin-bottom: 5px;
       display: none;
       border-radius: 0 0 25px 25px;};
